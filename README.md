@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Welcome to AstraPent
 
-<!--
-**astrapent/astrapent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AstraPent** is a cybersecurity-focused company committed to building intelligent, scalable, and AI-assisted solutions for modern digital security needs.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Us
+
+We specialize in crafting smart tools that enhance security assessment processes — reducing manual overhead, increasing speed, and minimizing human error. AstraPent's vision is to streamline vulnerability detection with cutting-edge AI support, delivering safer digital ecosystems.
+
+---
+
+## 🚀 What We Offer
+
+- Smart automation in security testing
+- Fast and reliable vulnerability insights
+- Tools built for accuracy and efficiency
+- AI-assisted workflows (details coming soon)
+
+> 🛡️ Currently, we are in stealth mode, developing the core engine of our platform.
+
+---
+
+## 🧪 Ongoing Projects
+
+- 🔒 **Next-gen cybersecurity solution** — Under private development.
+
+---
+
+## 📫 Contact
+
+- 📧 Email: [astrapent@gmail.com](mailto:astrapent@gmail.com)
+- 🐙 GitHub: [github.com/AstraPent](https://github.com/AstraPent)
+
+---
+
+> 🔧 *We are actively working behind the scenes. Stay tuned for updates!*
