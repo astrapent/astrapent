@@ -30,7 +30,7 @@ We specialize in crafting smart tools that enhance security assessment processes
 ## 📫 Contact
 
 - 📧 Email: [astrapent@gmail.com](mailto:astrapent@gmail.com)
-- 🐙 GitHub: [github.com/AstraPent](https://github.com/AstraPent)
+- 🐙 GitHub: [github.com/astrapent](https://github.com/astrapent)
 
 ---
 
